@@ -1,12 +1,9 @@
-## Hi there 👋
+## Hello World, I'm Divyesh 👋
 
 I am currently working on this page, be back soon!
 
 <!--
-**divyesh-jani/divyesh-jani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+<img align="left" alt="Divyesh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=divyesh-jani&show_icons=true&hide_border=true" />
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
