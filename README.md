@@ -2,7 +2,7 @@
 
 ⌛ I am currently working on this page, be back soon!
 
-👯 Connect on LinkedIn: linkedin.com/in/divyeshjani/
+👯 Connect on [LinkedIn](https://www.linkedin.com/in/divyeshjani)
 
 <!--
 - I’m currently working on ...
