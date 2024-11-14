@@ -2,6 +2,8 @@
 
 ⌛ I am currently working on this page, be back soon!
 
+👯 Connect on LinkedIn: linkedin.com/in/divyeshjani/
+
 <!--
 - I’m currently working on ...
 - 🌱 I’m currently learning ...
