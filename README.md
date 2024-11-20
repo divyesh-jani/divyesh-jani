@@ -4,7 +4,7 @@
 
 👯 Connect on [LinkedIn](https://www.linkedin.com/in/divyeshjani)
 
-[Webpage](https://divyesh-jani.github.io/) under construction
+Visit my [Webpage](https://divyesh-jani.github.io/)
 
 <!--
 - I’m currently working on ...
