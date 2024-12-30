@@ -1,12 +1,10 @@
 ## Hello World, I'm Divyesh 👋
 
-⌛ I am currently working on this page, be back soon!
+🌱 [Personal Website](https://divyeshjani.com) Coming Soon
 
 👯 Connect on [LinkedIn](https://www.linkedin.com/in/divyeshjani)
 
 ⚡ Visit my [Webpage](https://divyesh-jani.github.io/) on Github
-
-🌱 [Personal Website](https://divyeshjani.com) Coming Soon
 
 #### Learn JavaScript: ####
 [Source Code](https://github.com/divyesh-jani/learning-javascript) | [Deployed Project](https://divyeshjani.github.io/js/)
@@ -15,7 +13,7 @@
 [Source Code](https://github.com/divyesh-jani/learning-project-management) | [Deployed Project](https://divyeshjani.github.io/pmp/)
 
 <!--
-- I’m currently working on ...
+- ⌛ I’m currently working on ...
 -  I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
