@@ -8,6 +8,12 @@
 
 🌱 [Personal Website](https://divyeshjani.com) Coming Soon
 
+#### Learn JavaScript: ####
+[Source Code](https://github.com/divyesh-jani/learning-javascript) | [Deployed Project](https://divyeshjani.github.io/js/)
+
+#### Learn Project Management and prepare for PMP: ####
+[Source Code](https://github.com/divyesh-jani/learning-project-management) | [Deployed Project](https://divyeshjani.github.io/pmp/)
+
 <!--
 - I’m currently working on ...
 -  I’m currently learning ...
