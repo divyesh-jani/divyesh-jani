@@ -1,6 +1,6 @@
 ## Hello World, I'm Divyesh 👋
 
-🌱 [Personal Website](https://divyeshjani.com) Coming Soon
+🌱 [Personal Website](https://divyeshjani.com)
 
 👯 Connect on [LinkedIn](https://www.linkedin.com/in/divyeshjani)
 
