@@ -4,8 +4,6 @@
 
 👯 Connect on [LinkedIn](https://www.linkedin.com/in/divyeshjani)
 
-⚡ Visit my [Webpage](https://divyesh-jani.github.io/) on Github
-
 **Learn JavaScript:** [Source Code](https://github.com/divyesh-jani/learning-javascript) | [Webpage](https://divyeshjani.github.io/js/)
 
 **Learn Project Management and prepare for PMP:** [Source Code](https://github.com/divyesh-jani/learning-project-management) | [Webpage](https://divyeshjani.github.io/pmp/)
